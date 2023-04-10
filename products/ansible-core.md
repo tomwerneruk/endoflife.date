@@ -15,52 +15,52 @@ auto:
 
 releases:
 -   releaseCycle: "2.14"
+    pythonVersionsControlNode: 3.9 - 3.11
+    pythonVersionsManagedNode: 2.7 or 3.5 - 3.11
     releaseDate: 2022-11-07
     eol: 2024-05-31
     latest: "2.14.4"
     latestReleaseDate: 2023-03-27
-    pythonVersionsControlNode: 3.9 - 3.11
-    pythonVersionsManagedNode: 2.7 or 3.5 - 3.11
 
 -   releaseCycle: "2.13"
+    pythonVersionsControlNode: 3.8 - 3.10
+    pythonVersionsManagedNode: 2.7 or 3.5 - 3.10
     releaseDate: 2022-05-16
     eol: 2023-11-30
     latest: "2.13.8"
     latestReleaseDate: 2023-02-27
-    pythonVersionsControlNode: 3.8 - 3.10
-    pythonVersionsManagedNode: 2.7 or 3.5 - 3.10
 
 -   releaseCycle: "2.12"
+    pythonVersionsControlNode: 3.8 - 3.10
+    pythonVersionsManagedNode: 2.6 - 2.7 or 3.5 - 3.10
     releaseDate: 2021-11-08
     eol: 2023-05-31
     latest: "2.12.10"
     latestReleaseDate: 2022-10-11
-    pythonVersionsControlNode: 3.8 - 3.10
-    pythonVersionsManagedNode: 2.6 - 2.7 or 3.5 - 3.10
 
 -   releaseCycle: "2.11"
+    pythonVersionsControlNode: 2.7 or 3.5 - 3.9
+    pythonVersionsManagedNode: 2.6 - 2.7 or 3.5 - 3.9
     releaseDate: 2021-04-26
     eol: 2022-11-07
     latest: "2.11.12"
     latestReleaseDate: 2022-05-23
-    pythonVersionsControlNode: 2.7 or 3.5 - 3.9
-    pythonVersionsManagedNode: 2.6 - 2.7 or 3.5 - 3.9
 
 -   releaseCycle: "2.10"
+    pythonVersionsControlNode: 2.7 or 3.5
+    pythonVersionsManagedNode: 2.6 or 3.5
     releaseDate: 2020-08-13
     eol: 2022-05-23
     latest: "2.10.17"
     latestReleaseDate: 2022-01-31
-    pythonVersionsControlNode: 2.7 or 3.5
-    pythonVersionsManagedNode: 2.6 or 3.5
 
 -   releaseCycle: "2.9"
+    pythonVersionsControlNode: 2.7 or 3.5
+    pythonVersionsManagedNode: 2.6 or 3.5
     releaseDate: 2019-10-31
     eol: 2022-05-23
     latest: "2.9.27"
     latestReleaseDate: 2021-10-11
-    pythonVersionsControlNode: 2.7 or 3.5
-    pythonVersionsManagedNode: 2.6 or 3.5
 
 ---
 
